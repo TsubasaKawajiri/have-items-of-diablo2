@@ -4,7 +4,7 @@
 #   sockets: 0, 1, 2, 3, 4, 5, 6
 #   varies:
 #     - P-topaz x2
-#     - Enhanced Damage 120%
+#     - Enhanced Damage +120%
 #     - Etherial
 
 trader:
@@ -49,10 +49,12 @@ trader:
       rarity: unique
       sockets: 0
       varies:
+        - Enhanced Damage +110%
     - name: クソンのブーツ
       rarity: unique
       sockets: 0
       varies:
+        - Enhanced Defence 32%
     - name: 宝石を飾りしウォーハット
       rarity: normal
       sockets: 2
@@ -71,6 +73,8 @@ trader:
       rarity: unique
       sockets: 0
       varies:
+        - Enhanced Damage +163%
+        - Life Stolen Per Hit 6%
     - name: 彩られしアミュレット
       rarity: magic
       sockets: 0
@@ -222,19 +226,24 @@ uniques_1:
         rarity: unique
         sockets: 0
         varies:
+          - Enhanced Damage +46%
       - name: デススペード
         rarity: unique
         sockets: 0
         varies:
+          - Enhanced Damage +60%
       - name: ヒューモンガス
         rarity: unique
         sockets: 0
         varies:
+          - Enhanced Damage +92%
+          - Adds Damage 8-24
     弓:
       - name: ウィザーストリング
         rarity: unique
         sockets: 0
         varies:
+          - Enhanced Damage +44%
       - name: イーグルホーン
         rarity: unique
         sockets: 0
@@ -244,10 +253,13 @@ uniques_1:
         rarity: unique
         sockets: 0
         varies:
+          - Enhanced Damage +125%
+          - Attack Rating +128
       - name: ボーンスナップ
         rarity: unique
         sockets: 0
         varies:
+          - Enhanced Damage +292%
     スピア:
       - name: ヤガイのランス
         rarity: unique
@@ -258,19 +270,24 @@ uniques_1:
         rarity: unique
         sockets: 0
         varies:
+          - Enhanced Damage +90%
       - name: バトルブランチ
         rarity: unique
         sockets: 0
         varies:
+          - Enhanced Damage +65%
+          - Attack Rating +98
     剣:
       - name: ヘルプレイグ
         rarity: unique
         sockets: 0
         varies:
+          - Enhanced Damage +73%
       - name: ペイトリアーク
         rarity: unique
         sockets: 0
         varies:
+          - Enhanced Damage +117%
       - name: ヘッドストライカー
         rarity: unique
         sockets: 0
@@ -284,26 +301,39 @@ uniques_1:
         rarity: unique
         sockets: 0
         varies:
+          - Enhanced Damage +231%
     杖:
       - name: グレイヴンスパイン
         rarity: unique
         sockets: 0
         varies:
+          - Mana +44
+          - Etherial
   防具:
     シールド:
       - name: スチールクラッシュ
         rarity: unique
         sockets: 0
         varies:
+          - Durability 46
+          - Enhanced Defence +99%
       - name: ストームギルド
         rarity: unique
         sockets: 0
         varies:
+          - Durability 35
+          - Enhanced Defence +51%
+      - name: 瞳なき者の壁
+        rarity: unique
+        sockets: 0
+        varies:
+          - Enhanced Defence +34%
     グローブ:
       - name: グールハイド
         rarity: unique
         sockets: 0
         varies:
+          - Enhanced Defence +178%
     ヘルム:
       - name: ワームスカル
         rarity: unique
@@ -314,6 +344,7 @@ uniques_1:
         rarity: unique
         sockets: 0
         varies:
+          - Enhanced Defence +79%
     アミュレット:
 uniques_2:
   武器:
@@ -323,6 +354,7 @@ uniques_2:
         rarity: unique
         sockets: 0
         varies:
+          - Enhanced Damage +160%
     メイス:
       - name: アースシェイカー
         rarity: unique
@@ -333,15 +365,22 @@ uniques_2:
         rarity: unique
         sockets: 0
         varies:
+          - Enhanced Damage +65%
+          - Life Stolen Per Hit 8%
       - name: ヴァイパーフォーク
         rarity: unique
         sockets: 0
         varies:
+          - Enhanced Damage 198%
+          - Attack Rating +207
+          - Poison Resist +40%
     長柄:
       - name: スチールゴウド
         rarity: unique
         sockets: 0
         varies:
+          - Durability 72
+          - Enhanced Damage 66%
       - name: ディモークズ・ヒュー
         rarity: unique
         sockets: 0
@@ -351,18 +390,27 @@ uniques_2:
         rarity: unique
         sockets: 0
         varies:
+          - Enhanced Damage +106%
+          - Adds Fire Damage 12-23
       - name: ソードガード
         rarity: unique
         sockets: 0
         varies:
+          - Enhanced Damage +174%
+          - All Registances +10
       - name: キネミルズ・アウル
         rarity: unique
         sockets: 0
         varies:
+          - Enhanced Damage 88%
+          - Attack Rating +129
+          - Adds Fire Damage 6-36
       - name: ソウルフレイ
         rarity: unique
         sockets: 0
         varies:
+          - Enhanced Damage 96%
+          - Mana Stolen Per Hit 10%
     ダガー:
     杖:
   防具:
@@ -371,33 +419,48 @@ uniques_2:
         rarity: unique
         sockets: 0
         varies:
+          - Defence 174
+          - Enhanced Defence 181%
       - name: ラダメントの宝盾
         rarity: unique
         sockets: 0
         varies:
+          - Defence 254
+          - Enhanced Defence +171%
       - name: ランス・ガード
         rarity: unique
         sockets: 0
         varies:
+          - Defence 158
+          - Enhanced Defence +101% 
       - name: 無蓋の防壁
         rarity: unique
         sockets: 0
         varies:
+          - Defence 320
+          - Enhanced Defence +112%
+          - Mana After Each Kill +5
     グローブ:
       - name: メイジフィスト
         rarity: unique
         sockets: 0
         varies:
+          - Enhanced Defence +21%
     ヘルム:
     アーマー:
       - name: ダークグロー
         rarity: unique
         sockets: 0
         varies:
+          - Defence 90
+          - Enhanced Defence +85%
       - name: トゥースロウ
         rarity: unique
         sockets: 0
         varies:
+          - Defence 770
+          - Enhanced DEfence 178%
+          - Attacker Takes Damage 21
     アミュレット:
       - name: マヒン＝オーク・キュリオ
         rarity: unique
