@@ -248,6 +248,14 @@ uniques_1:
         rarity: unique
         sockets: 0
         varies:
+    crossbows:
+    daggers:
+      - name: スパインリッパー
+        rarity: unique
+        sockets: 0
+        varies:
+          - Enhanced Damage +231%
+    javelins:
     maces:
       - name: アイアンストーン
         rarity: unique
@@ -260,23 +268,25 @@ uniques_1:
         sockets: 0
         varies:
           - Enhanced Damage +292%
-    spears:
-      - name: ヤガイのランス
-        rarity: unique
-        sockets: 0
-        varies:
     polearms:
       - name: ソウル・ハーベスト
         rarity: unique
         sockets: 0
         varies:
           - Enhanced Damage +90%
+    scepters:
+    spears:
+      - name: ヤガイのランス
+        rarity: unique
+        sockets: 0
+        varies:
       - name: バトルブランチ
         rarity: unique
         sockets: 0
         varies:
           - Enhanced Damage +65%
           - Attack Rating +98
+    staves:
     swords:
       - name: ヘルプレイグ
         rarity: unique
@@ -296,12 +306,7 @@ uniques_1:
         rarity: unique
         sockets: 0
         varies:
-    daggers:
-      - name: スパインリッパー
-        rarity: unique
-        sockets: 0
-        varies:
-          - Enhanced Damage +231%
+    throwings:
     wands:
       - name: グレイヴンスパイン
         rarity: unique
@@ -309,7 +314,31 @@ uniques_1:
         varies:
           - Mana +44
           - Etherial
+    amazon bows:
+    amazon javelins:
+    amazon spears:
+    assassin claws:
+    sorceress orbs:
   ammors:
+    armors:
+    - name: アイスブリンク
+      rarity: unique
+      sockets: 0
+      varies:
+        - Enhanced Defence +79%
+    belts:
+    boots:
+    groves:
+      - name: グールハイド
+        rarity: unique
+        sockets: 0
+        varies:
+          - Enhanced Defence +178%
+    helms:
+      - name: ワームスカル
+        rarity: unique
+        sockets: 0
+        varies:
     shields:
       - name: スチールクラッシュ
         rarity: unique
@@ -328,24 +357,10 @@ uniques_1:
         sockets: 0
         varies:
           - Enhanced Defence +34%
-    groves:
-      - name: グールハイド
-        rarity: unique
-        sockets: 0
-        varies:
-          - Enhanced Defence +178%
-    helms:
-      - name: ワームスカル
-        rarity: unique
-        sockets: 0
-        varies:
-    armors:
-      - name: アイスブリンク
-        rarity: unique
-        sockets: 0
-        varies:
-          - Enhanced Defence +79%
+  accesories:
     amulets:
+    rings:
+  charms:
 uniques_2:
   weapons:
     axes:
@@ -355,11 +370,25 @@ uniques_2:
         sockets: 0
         varies:
           - Enhanced Damage +160%
+    crossbows:
+    daggers:
     maces:
       - name: アースシェイカー
         rarity: unique
         sockets: 0
         varies:
+    polearms:
+      - name: スチールゴウド
+        rarity: unique
+        sockets: 0
+        varies:
+          - Durability 72
+          - Enhanced Damage 66%
+      - name: ディモークズ・ヒュー
+        rarity: unique
+        sockets: 0
+        varies:
+    scepters:
     spears:
       - name: ブラッドシーフ
         rarity: unique
@@ -374,17 +403,7 @@ uniques_2:
           - Enhanced Damage 198%
           - Attack Rating +207
           - Poison Resist +40%
-    polearms:
-      - name: スチールゴウド
-        rarity: unique
-        sockets: 0
-        varies:
-          - Durability 72
-          - Enhanced Damage 66%
-      - name: ディモークズ・ヒュー
-        rarity: unique
-        sockets: 0
-        varies:
+    staves:
     swords:
       - name: グリズウォルドの刃
         rarity: unique
@@ -411,9 +430,37 @@ uniques_2:
         varies:
           - Enhanced Damage 96%
           - Mana Stolen Per Hit 10%
-    daggers:
+    throwings:
     wands:
+    amazon bows:
+    amazon javelins:
+    amazon spears:
+    assassin claws:
+    sorceress orbs:
   armors:
+    armors:
+      - name: ダークグロー
+        rarity: unique
+        sockets: 0
+        varies:
+          - Defence 90
+          - Enhanced Defence +85%
+    belts:
+    boots:
+    groves:
+      - name: メイジフィスト
+        rarity: unique
+        sockets: 0
+        varies:
+          - Enhanced Defence +21%
+    helms:
+      - name: トゥースロウ
+        rarity: unique
+        sockets: 0
+        varies:
+          - Defence 770
+          - Enhanced DEfence 178%
+          - Attacker Takes Damage 21
     shields:
       - name: ストームチェイサー
         rarity: unique
@@ -440,29 +487,11 @@ uniques_2:
           - Defence 320
           - Enhanced Defence +112%
           - Mana After Each Kill +5
-    groves:
-      - name: メイジフィスト
-        rarity: unique
-        sockets: 0
-        varies:
-          - Enhanced Defence +21%
-    helms:
-    armors:
-      - name: ダークグロー
-        rarity: unique
-        sockets: 0
-        varies:
-          - Defence 90
-          - Enhanced Defence +85%
-      - name: トゥースロウ
-        rarity: unique
-        sockets: 0
-        varies:
-          - Defence 770
-          - Enhanced DEfence 178%
-          - Attacker Takes Damage 21
+  accesories:
     amulets:
       - name: マヒン＝オーク・キュリオ
         rarity: unique
         sockets: 0
         varies:
+    rings:
+  charms:
