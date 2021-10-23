@@ -220,8 +220,8 @@ sets_2:
       sockets: 0
       varies:
 uniques_1:
-  武器:
-    斧:
+  weapon:
+    axes:
       - name: ゴアシャベル
         rarity: unique
         sockets: 0
@@ -238,7 +238,7 @@ uniques_1:
         varies:
           - Enhanced Damage +92%
           - Adds Damage 8-24
-    弓:
+    bows:
       - name: ウィザーストリング
         rarity: unique
         sockets: 0
@@ -248,7 +248,7 @@ uniques_1:
         rarity: unique
         sockets: 0
         varies:
-    メイス:
+    maces:
       - name: アイアンストーン
         rarity: unique
         sockets: 0
@@ -260,12 +260,12 @@ uniques_1:
         sockets: 0
         varies:
           - Enhanced Damage +292%
-    スピア:
+    spears:
       - name: ヤガイのランス
         rarity: unique
         sockets: 0
         varies:
-    長柄:
+    polearms:
       - name: ソウル・ハーベスト
         rarity: unique
         sockets: 0
@@ -277,7 +277,7 @@ uniques_1:
         varies:
           - Enhanced Damage +65%
           - Attack Rating +98
-    剣:
+    swords:
       - name: ヘルプレイグ
         rarity: unique
         sockets: 0
@@ -296,21 +296,21 @@ uniques_1:
         rarity: unique
         sockets: 0
         varies:
-    ダガー:
+    daggers:
       - name: スパインリッパー
         rarity: unique
         sockets: 0
         varies:
           - Enhanced Damage +231%
-    杖:
+    wands:
       - name: グレイヴンスパイン
         rarity: unique
         sockets: 0
         varies:
           - Mana +44
           - Etherial
-  防具:
-    シールド:
+  ammors:
+    shields:
       - name: スチールクラッシュ
         rarity: unique
         sockets: 0
@@ -328,39 +328,39 @@ uniques_1:
         sockets: 0
         varies:
           - Enhanced Defence +34%
-    グローブ:
+    groves:
       - name: グールハイド
         rarity: unique
         sockets: 0
         varies:
           - Enhanced Defence +178%
-    ヘルム:
+    helms:
       - name: ワームスカル
         rarity: unique
         sockets: 0
         varies:
-    アーマー:
+    armors:
       - name: アイスブリンク
         rarity: unique
         sockets: 0
         varies:
           - Enhanced Defence +79%
-    アミュレット:
+    amulets:
 uniques_2:
-  武器:
-    斧:
-    弓:
+  weapons:
+    axes:
+    bows:
       - name: ウィッチワイルド・ストリング
         rarity: unique
         sockets: 0
         varies:
           - Enhanced Damage +160%
-    メイス:
+    maces:
       - name: アースシェイカー
         rarity: unique
         sockets: 0
         varies:
-    スピア:
+    spears:
       - name: ブラッドシーフ
         rarity: unique
         sockets: 0
@@ -374,7 +374,7 @@ uniques_2:
           - Enhanced Damage 198%
           - Attack Rating +207
           - Poison Resist +40%
-    長柄:
+    polearms:
       - name: スチールゴウド
         rarity: unique
         sockets: 0
@@ -385,7 +385,7 @@ uniques_2:
         rarity: unique
         sockets: 0
         varies:
-    剣:
+    swords:
       - name: グリズウォルドの刃
         rarity: unique
         sockets: 0
@@ -411,10 +411,10 @@ uniques_2:
         varies:
           - Enhanced Damage 96%
           - Mana Stolen Per Hit 10%
-    ダガー:
-    杖:
-  防具:
-    シールド:
+    daggers:
+    wands:
+  armors:
+    shields:
       - name: ストームチェイサー
         rarity: unique
         sockets: 0
@@ -440,14 +440,14 @@ uniques_2:
           - Defence 320
           - Enhanced Defence +112%
           - Mana After Each Kill +5
-    グローブ:
+    groves:
       - name: メイジフィスト
         rarity: unique
         sockets: 0
         varies:
           - Enhanced Defence +21%
-    ヘルム:
-    アーマー:
+    helms:
+    armors:
       - name: ダークグロー
         rarity: unique
         sockets: 0
@@ -461,7 +461,7 @@ uniques_2:
           - Defence 770
           - Enhanced DEfence 178%
           - Attacker Takes Damage 21
-    アミュレット:
+    amulets:
       - name: マヒン＝オーク・キュリオ
         rarity: unique
         sockets: 0
