@@ -1,3 +1,12 @@
+# item structure
+# - name: item name
+#   rarity: normal, magic, rare, unique, set
+#   sockets: 0, 1, 2, 3, 4, 5, 6
+#   varies:
+#     - P-topaz x2
+#     - Enhanced Damage 120%
+#     - Etherial
+
 trader:
   stock:
     - name: 死神の息吹
