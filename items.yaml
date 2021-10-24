@@ -6,7 +6,48 @@
 #     - P-topaz x2
 #     - Enhanced Damage +120%
 #     - Etherial
-
+oba-san:
+  owned:
+    - name: Spilit
+      rarity: Runeword
+      sockets: 4
+      varies:
+        - Faster Cast Rate +33%
+        - Mana +91
+        - Magic Absorb +6
+    - name: イラサの首飾り
+      rarity: set
+      sockets: 0
+      varies:
+    - name: サイゴンのガード
+      rarity: set
+      sockets: 0
+      varies:
+    - name: サイゴンのベルト
+      rarity: set
+      sockets: 0
+      varies:
+    - name: サイゴンのサボット
+      rarity: set
+      sockets: 0
+      varies:
+    - name: サイゴンのゲージ
+      rarity: set
+      sockets: 0
+      varies:
+    - name: 極寒の毛皮
+      rarity: set
+      sockets: 0
+      varies: 
+  borrowed:
+    - name: サイゴンのシェルター
+      rarity: set
+      sockets: 0
+      varies:
+    - name: サイゴンのベルト
+      rarity: set
+      sockets: 0
+      varies:
 trader:
   stock:
     - name: 死神の息吹
