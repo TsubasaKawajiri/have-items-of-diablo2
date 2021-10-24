@@ -344,12 +344,14 @@ uniques_1:
         rarity: unique
         sockets: 0
         varies:
+          - Defence 57
           - Durability 46
           - Enhanced Defence +99%
       - name: ストームギルド
         rarity: unique
         sockets: 0
         varies:
+          - Defence 52
           - Durability 35
           - Enhanced Defence +51%
       - name: 瞳なき者の壁
