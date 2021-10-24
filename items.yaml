@@ -15,10 +15,6 @@ oba-san:
         - Faster Cast Rate +33%
         - Mana +91
         - Magic Absorb +6
-    - name: イラサの首飾り
-      rarity: set
-      sockets: 0
-      varies:
     - name: サイゴンのガード
       rarity: set
       sockets: 0
@@ -35,10 +31,6 @@ oba-san:
       rarity: set
       sockets: 0
       varies:
-    - name: 極寒の毛皮
-      rarity: set
-      sockets: 0
-      varies: 
   borrowed:
     - name: サイゴンのシェルター
       rarity: set
@@ -203,6 +195,10 @@ sets_1:
       rarity: set
       sockets: 0
       varies:
+    - name: 極寒の毛皮
+      rarity: set
+      sockets: 0
+      varies:
   サンダーの愚行:
     - name: サンダーの踏み石
       rarity: set
@@ -219,6 +215,10 @@ sets_1:
       varies:
   イラサの貴装:
     - name: イラサの袖鎧
+      rarity: set
+      sockets: 0
+      varies:
+    - name: イラサの首飾り
       rarity: set
       sockets: 0
       varies:
