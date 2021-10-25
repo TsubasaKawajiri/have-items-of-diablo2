@@ -473,6 +473,11 @@ uniques_2:
         varies:
           - Enhanced Damage 96%
           - Mana Stolen Per Hit 10%
+      - name: ブラッドクレセント
+        rarity: unique
+        sockets: 0
+        varies:
+          - Enhanced Damage 76%
     throwings:
     wands:
     amazon bows:
