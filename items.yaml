@@ -513,6 +513,10 @@ uniques_2:
         varies:
           - Enhanced Defence +21%
     helms:
+      - name: ハウルタスク
+        rarity: unique
+        sockets: 0
+        varies:
     shields:
       - name: ストームチェイサー
         rarity: unique
