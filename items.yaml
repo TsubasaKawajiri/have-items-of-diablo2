@@ -504,6 +504,14 @@ uniques_2:
           - Defence 770
           - Enhanced DEfence 178%
           - Attacker Takes Damage 21
+      - name: アーカインの勇気
+        rarity: unique
+        sockets: 0
+        varies:
+          - Defence 1388
+          - Enhanced DEfence 168%
+          - All Skills +1
+          - Damage Reduced By 11
     belts:
     boots:
     groves:
