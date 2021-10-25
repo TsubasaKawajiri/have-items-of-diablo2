@@ -78,6 +78,10 @@ trader:
       rarity: set
       sockets: 0
       varies:
+    - name: サンダーの迷信
+      rarity: set
+      sockets: 0
+      varies:
     - name: ペイトリアーク
       rarity: unique
       sockets: 0
