@@ -497,6 +497,13 @@ uniques_2:
         varies:
           - Defence 90
           - Enhanced Defence +85%
+      - name: トゥースロウ
+        rarity: unique
+        sockets: 0
+        varies:
+          - Defence 770
+          - Enhanced DEfence 178%
+          - Attacker Takes Damage 21
     belts:
     boots:
     groves:
@@ -506,13 +513,6 @@ uniques_2:
         varies:
           - Enhanced Defence +21%
     helms:
-      - name: トゥースロウ
-        rarity: unique
-        sockets: 0
-        varies:
-          - Defence 770
-          - Enhanced DEfence 178%
-          - Attacker Takes Damage 21
     shields:
       - name: ストームチェイサー
         rarity: unique
