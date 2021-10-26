@@ -31,6 +31,10 @@ oba-san:
       rarity: set
       sockets: 0
       varies:
+    - name: アイゼンハートのパリー盾
+      rarity: set
+      sockets: 0
+      varies:
   borrowed:
     - name: サイゴンのシェルター
       rarity: set
