@@ -171,6 +171,10 @@ sets_1:
       rarity: set
       sockets: 0
       varies:
+    - name: カタンの面頬
+      rarity: set
+      sockets: 0
+      varies:
   ナジの古き残痕:
     - name: ナジのサークレット
       rarity: set
