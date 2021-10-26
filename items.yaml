@@ -264,6 +264,11 @@ sets_2:
       rarity: set
       sockets: 0
       varies:
+  不死王:
+    - name: 不死王の飾り帯
+      rarity: set
+      sockets: 0
+      varies:
 uniques_1:
   weapon:
     axes:
