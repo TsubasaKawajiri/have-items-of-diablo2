@@ -543,6 +543,13 @@ uniques_2:
           - Enhanced Damage 88%
           - Attack Rating +129
           - Adds Fire Damage 6-36
+      - name: キネミルズ・アウル
+        rarity: unique
+        sockets: 0
+        varies:
+          - Enhanced Damage 88%
+          - Attack Rating +134
+          - Adds Fire Damage 6-21
       - name: ソウルフレイ
         rarity: unique
         sockets: 0
