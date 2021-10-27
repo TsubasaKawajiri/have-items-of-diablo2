@@ -6,6 +6,61 @@
 #     - P-topaz x2
 #     - Enhanced Damage +120%
 #     - Etherial
+nec:
+  owned:
+    - name: グリズウォルドの勇気
+      rarity: set
+      sockets: 2
+      varies:
+        - P-Topaz x2
+    - name: 御使いの鎌剣
+      rarity: set
+      sockets: 0
+      varies:
+    - name: 御使いの翼
+      rarity: set
+      sockets: 0
+      varies:
+    - name: 御使いの外衣
+      rarity: set
+      sockets: 1
+      varies:
+        - P-topaz x1
+    - name: ホムンクルス
+      rarity: unique
+      sockets: 0
+      varies:
+        - Defence
+        - Enhanced Defence
+    - name: チャンス・ガード
+      rarity: set
+      sockets: 0
+      varies:
+        - Defence 34
+        - Enhanced Defence +28%
+        - Better Chance of Getting Magic Items +26%
+        - Etherial
+    - name: 御使いの光輪
+      rarity: set
+      sockets: 0
+      varies:
+    - name: 御使いの光輪
+      rarity: set
+      sockets: 0
+      varies:
+    - name: クソンのブーツ
+      rarity: unique
+      sockets: 0
+      varies:
+        - Enhanced Defence 32%
+    - name: ギードの運気
+      rarity: unique
+      sockets: 0
+      varies:
+        - Extra Gold from Monsters +151%
+        - Reduce All Vendor Prices -14%
+        - Better Chance of Getting Magic Items +34%
+  borrowed:
 oba-san:
   owned:
     - name: Spilit
