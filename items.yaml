@@ -86,6 +86,10 @@ trader:
       rarity: set
       sockets: 0
       varies:
+    - name: 御使いの鎌剣
+      rarity: set
+      sockets: 0
+      varies:
     - name: ペイトリアーク
       rarity: unique
       sockets: 0
